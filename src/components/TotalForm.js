@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Total(){
+function TotalForm(){
 
 
 }
 
-exxport default Total;
+export default TotalForm;

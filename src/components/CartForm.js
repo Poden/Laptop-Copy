@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Cart (){
+function CartForm (){
 
 
 }
 
-export default Cart;
+export default CartForm;
